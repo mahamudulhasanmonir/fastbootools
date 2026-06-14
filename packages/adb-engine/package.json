@@ -1,0 +1,11 @@
+{
+  "name": "@packages/adb-engine",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "dev": "echo \"ADB Engine development script\"",
+    "build": "echo \"ADB Engine build script\""
+  },
+  "dependencies": {}
+}

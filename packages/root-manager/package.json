@@ -1,0 +1,11 @@
+{
+  "name": "@packages/root-manager",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "dev": "echo \"Root Manager dev script\"",
+    "build": "echo \"Root Manager build script\""
+  },
+  "dependencies": {}
+}

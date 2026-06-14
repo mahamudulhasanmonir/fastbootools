@@ -1,0 +1,17 @@
+{
+  "name": "droidforge",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm --prefix apps/desktop run dev",
+    "build": "npm --prefix apps/desktop run build",
+    "start": "npx concurrently \"npm run dev\" \"npm --prefix apps/desktop run electron:start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

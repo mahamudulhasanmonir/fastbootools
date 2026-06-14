@@ -1,0 +1,11 @@
+{
+  "name": "@packages/recovery-manager",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "dev": "echo \"Recovery Manager dev script\"",
+    "build": "echo \"Recovery Manager build script\""
+  },
+  "dependencies": {}
+}

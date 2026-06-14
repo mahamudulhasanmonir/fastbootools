@@ -1,0 +1,11 @@
+{
+  "name": "@packages/fastboot-engine",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "dev": "echo \"Fastboot Engine development script\"",
+    "build": "echo \"Fastboot Engine build script\""
+  },
+  "dependencies": {}
+}

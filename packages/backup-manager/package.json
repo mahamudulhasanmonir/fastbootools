@@ -1,0 +1,11 @@
+{
+  "name": "@packages/backup-manager",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "dev": "echo \"Backup Manager dev script\"",
+    "build": "echo \"Backup Manager build script\""
+  },
+  "dependencies": {}
+}
